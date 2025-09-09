@@ -1,6 +1,6 @@
-## InsuranceDoc AI
+## PDFusion
 
-An AI-powered application designed to process insurance policy documents and answer user questions using a Retrieval-Augmented Generation (RAG) pipeline. This project consists of a FastAPI backend and a React frontend.
+An AI-powered application designed to process PDF documents and answer user questions using a Retrieval-Augmented Generation (RAG) pipeline. This project consists of a FastAPI backend and a React frontend.
 
 -----
 
